@@ -4,7 +4,6 @@
 // 30-08-2022 02:40:15
 
 namespace blazedumper {
-constexpr ::std::int64_t timestamp = 1661374499;
 namespace netvars {
 constexpr ::std::ptrdiff_t cs_gamerules_data = 0x0;
 constexpr ::std::ptrdiff_t m_ArmorValue = 0x117CC;
